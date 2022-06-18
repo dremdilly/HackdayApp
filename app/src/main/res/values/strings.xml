@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HackdayApp</string>
+    <string name="title_lenta">Лента</string>
+    <string name="title_universities">ВУЗы</string>
+    <string name="title_professions">Профессии</string>
+    <string name="title_profile">Профиль</string>
+</resources>

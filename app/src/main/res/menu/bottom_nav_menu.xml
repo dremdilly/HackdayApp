@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_lenta"
+        android:icon="@drawable/ic_lenta"
+        android:iconTint="@color/black"
+        android:title="Лента" />
+
+    <item
+        android:id="@+id/navigation_universities"
+        android:icon="@drawable/ic_universities"
+        android:iconTint="@color/black"
+        android:title="ВУЗы" />
+
+    <item
+        android:id="@+id/navigation_professions"
+        android:icon="@drawable/ic_professions"
+        android:iconTint="@color/black"
+        android:title="Профессии" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:iconTint="@color/black"
+        android:title="Профиль" />
+
+</menu>
